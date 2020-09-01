@@ -9,4 +9,4 @@
 |            |           |                                                                                                                                                   |        |   |
 
 ## Wish list
-Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
+- [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
