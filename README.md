@@ -1,4 +1,4 @@
-# bi-weekly-paper-presentation
+# biweekly group meeting
 
 ## Paper presentation schedule:
 
