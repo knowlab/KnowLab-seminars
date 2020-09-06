@@ -10,3 +10,4 @@
 
 ## Wish list
 - [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
+- [ ] Chris Manning et al, Emergent linguistic structure in artificial neural networks trained by self-supervision. https://www.pnas.org/content/early/2020/06/02/1907367117.full
