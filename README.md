@@ -12,3 +12,4 @@
 - [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
 - [ ] Chris Manning et al, Emergent linguistic structure in artificial neural networks trained by self-supervision. https://www.pnas.org/content/early/2020/06/02/1907367117.full
 - [ ] AMELIE (Science Translational Medicine  20 May 2020): https://stm.sciencemag.org/content/12/544/eaau9113
+- [ ] Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces: https://www.aclweb.org/anthology/D18-1352/ - Graph convolutional networks and ontologies.
