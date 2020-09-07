@@ -5,7 +5,7 @@
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |   |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|---|
 | 3 Aug 2020 | Hang Dong | Entity Linking at ACL 2020:<br>(1) [Clinical Concept Linking with Contextualized Neural Representations](https://www.aclweb.org/anthology/2020.acl-main.760/)<br>(2) [From zero to hero: Human-in-the-loop entity linking in low resource domains](https://www.aclweb.org/anthology/2020.acl-main.624/) | https://drive.google.com/file/d/1h4MjOoxM-lCj7s4OfNQfnLiIib_GjFeA/view?usp=sharing       |   |
-| 7 Sep 2020 |  Victor         |                                                                                                                                                    |        |   |
+| 7 Sep 2020 |  Victor         | Few-Shot Learning (FSL):<br>(1) [Generalizing from a Few Examples: A Survey on Few-shot Learning](https://doi.org/10.1145/3386252)  <br>(2) [Few-shot Learning for Named Entity Recognition in Medical Text](https://arxiv.org/abs/1811.05468)                                                                                                                                                  |        |   |
 | 21 Sep 2020  |    Huayu Zhang       |                                                                                                                                                   |        |   |
 
 ## Wish list
