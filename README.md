@@ -16,3 +16,4 @@
 - [ ] Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces: https://www.aclweb.org/anthology/D18-1352/ - Graph convolutional networks and ontologies.
 - [ ] New Alexa features: Interactive teaching by customers https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers
 - [ ] Zhang, Tianlin, Jiaxu Leng, and Ying Liu. "Deep learning for drug–drug interaction extraction from the literature: a review." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz087](https://doi.org/10.1093/bib/bbz087)
+- [ ] Wu, Zhourun, Qing Liao, and Bin Liu. "A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz085](https://doi.org/10.1093/bib/bbz085)
