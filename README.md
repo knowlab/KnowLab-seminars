@@ -9,6 +9,8 @@
 | 21 Sep 2020  |    Huayu Zhang       |        [AMELIE (Science Translational Medicine  20 May 2020)](https://stm.sciencemag.org/content/12/544/eaau9113)                                                                                                                                           |    [AMELIE](https://drive.google.com/file/d/193wSqxZSmPEqgy1gejFul8U_f4dK4Iay/view?usp=sharing)     |   |
 | 5 Oct 2020  |    Hang Dong       | [Chris Manning et al, Emergent linguistic structure in artificial neural networks trained by self-supervision]( https://www.pnas.org/content/early/2020/06/02/1907367117.full)                                                                                                                                                  | [slides](https://drive.google.com/file/d/1l7bRMsMLxnwLL2afLiy3CpH9Kp7scNgr/view?usp=sharing)   |   |
 | 19 Oct 2020 | Victor | Project - Care Home Address Matching | | |
+| 04 Nov 2020 | Huayu Zhang | | |
+| 16 Nov 2020 | Jiaoyan Chen (Oxford Uni) | [OWL2Vec*: Embedding of OWL Ontologies](https://arxiv.org/abs/2009.14654) | |
 
 ## Wish list
 ### research articles
