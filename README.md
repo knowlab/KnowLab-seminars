@@ -21,7 +21,10 @@
 - [ ] Wu, Zhourun, Qing Liao, and Bin Liu. "A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz085](https://doi.org/10.1093/bib/bbz085)
 - [ ] Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051
 - [ ] Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101
-
+- sum-product networks
+   - [ ] Delalleau, O. and Bengio, Y., 2011. Shallow vs. deep sum-product networks. In Advances in neural information processing systems (pp. 666-674). [PDF](https://papers.nips.cc/paper/4350-shallow-vs-deep-sum-product-networks.pdf)
+   - [ ] París, I., Sánchez-Cauce, R. and Díez, F.J., 2020. Sum-product networks: A survey. arXiv preprint arXiv:2004.01167. [PDF](https://arxiv.org/pdf/2004.01167.pdf)
+   - [ ] Peharz, R., Vergari, A., Stelzner, K., Molina, A., Shao, X., Trapp, M., Kersting, K. and Ghahramani, Z., 2020, August. Random sum-product networks: A simple and effective approach to probabilistic deep learning. In Uncertainty in Artificial Intelligence (pp. 334-344). PMLR. [PDF](http://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf)
 ### blog articles
 - [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
 - [ ] New Alexa features: Interactive teaching by customers https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers
