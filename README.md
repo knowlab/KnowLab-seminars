@@ -25,6 +25,8 @@
    - [ ] Delalleau, O. and Bengio, Y., 2011. Shallow vs. deep sum-product networks. In Advances in neural information processing systems (pp. 666-674). [PDF](https://papers.nips.cc/paper/4350-shallow-vs-deep-sum-product-networks.pdf)
    - [ ] París, I., Sánchez-Cauce, R. and Díez, F.J., 2020. Sum-product networks: A survey. arXiv preprint arXiv:2004.01167. [PDF](https://arxiv.org/pdf/2004.01167.pdf)
    - [ ] Peharz, R., Vergari, A., Stelzner, K., Molina, A., Shao, X., Trapp, M., Kersting, K. and Ghahramani, Z., 2020, August. Random sum-product networks: A simple and effective approach to probabilistic deep learning. In Uncertainty in Artificial Intelligence (pp. 334-344). PMLR. [PDF](http://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf)
+- knowledge graph construction
+- [ ] Language Models are Open Knowledge Graphs, 22 Oct 2020: https://arxiv.org/abs/2010.11967
 ### blog articles
 - [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
 - [ ] New Alexa features: Interactive teaching by customers https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers
