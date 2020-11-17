@@ -11,6 +11,7 @@
 | 19 Oct 2020 | Victor | Project - Care Home Address Matching | | |
 | 04 Nov 2020 | Huayu Zhang | Bayesian Networks: <br> (1) [Bayesian Networks for Risk Prediction Using Real-World Data: A Tool for Precision Medicine](https://www.sciencedirect.com/science/article/pii/S1098301519300579?via%3Dihub) <br> (2) [A Bayesian Network Model for Predicting Post-stroke Outcomes With Available Risk Factors](https://www.frontiersin.org/articles/10.3389/fneur.2018.00699/full)<br> (3) [Phrank measures phenotype sets similarity to greatly improve Mendelian diagnostic disease prioritization](https://www.nature.com/articles/s41436-018-0072-y#Sec1)| [slide](https://drive.google.com/file/d/11DyVszV5qapXlPVtuikMqi_ZS7BlUe5e/view?usp=sharing)|
 | 16 Nov 2020 | Jiaoyan Chen (Oxford Uni) | [OWL2Vec*: Embedding of OWL Ontologies](https://arxiv.org/abs/2009.14654) | |
+| 30 Nov 2020 | Honghan Wu | sum-product networks | |
 
 ## Wish list
 ### research articles
