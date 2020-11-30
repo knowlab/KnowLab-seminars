@@ -33,6 +33,7 @@
 - predictions on ICU data
    - [ ] Hannun, A.Y., Rajpurkar, P., Haghpanahi, M., Tison, G.H., Bourn, C., Turakhia, M.P. and Ng, A.Y. (2019). Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network. Nature Medicine, [online] 25(1), pp.65–69. Available at: https://www.nature.com/articles/s41591-018-0268-3?WT.feed_name=subjects_machine-learning [Accessed 17 Nov. 2020].
    - [ ] Hyland, S.L., Faltys, M., Hüser, M., Lyu, X., Gumbsch, T., Esteban, C., Bock, C., Horn, M., Moor, M., Rieck, B., Zimmermann, M., Bodenham, D., Borgwardt, K., Rätsch, G. and Merz, T.M. (2020). Early prediction of circulatory failure in the intensive care unit using machine learning. Nature Medicine, [online] 26(3), pp.364–373. Available at: https://www.nature.com/articles/s41591-020-0789-4 [Accessed 17 Nov. 2020].
+   - [ ] Improved protein structure prediction using potentials from deep learning. [link](https://www.nature.com/articles/s41586-019-1923-7)
  
 ### blog articles
 - [ ] Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8 
