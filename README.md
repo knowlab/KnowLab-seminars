@@ -6,7 +6,8 @@
 
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |   |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|---|
-| 14 Dec 2020 | Hang Dong | Language Models (e.g. BERT) as/for/from Knowledge Graphs: <br>(i) [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf) (and [KnowlyBERT - Hybrid Query Answering over Language Models and Knowledge Graphs](http://www.ifis.cs.tu-bs.de/sites/default/files/ISWC_20_KnowlyBERT.pdf)) <br>(ii) [Entities as Experts: Sparse Memory Access with Entity Supervision](https://www.aclweb.org/anthology/2020.emnlp-main.400/) (and [Facts as Experts: Adaptable and Interpretable Neural Memory over Symbolic Knowledge](https://arxiv.org/abs/2007.00849))| [slides](https://1drv.ms/p/s!AlvsB_ZEXPkij8sJd8WNlIplIldttA?e=R9w891) |
+| 11/01/2021 |  | |  |
+| 25/01/2021 |  | |  |
 
 ## Wish list
 ### research articles
@@ -15,8 +16,6 @@
    - [ ] Wu, Zhourun, Qing Liao, and Bin Liu. "A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz085](https://doi.org/10.1093/bib/bbz085)
    - [ ] Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051
    - [ ] Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101
-
-- [ ] Improved protein structure prediction using potentials from deep learning. [link](https://www.nature.com/articles/s41586-019-1923-7)
 
 - knowledge graph construction
    - [x] Language Models are Open Knowledge Graphs, 22 Oct 2020: https://arxiv.org/abs/2010.11967
