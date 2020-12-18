@@ -4,11 +4,11 @@
 
 [2020 Archieve](2020-12-18.md)
 
-| Date       | Speaker   | Paper                                                                                                                                              | Slides |   |
-|------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|---|
-| 11/01/2021 | Tina Yao | predictions on ICU data with a focus on (New) AFib |  |
-| 25/01/2021 |  | |  |
-| 08/02/2021 | Alexander Dobres  | Zhang, Tianlin, Jiaxu Leng, and Ying Liu. "Deep learning for drug–drug interaction extraction from the literature: a review." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz087](https://doi.org/10.1093/bib/bbz087) |  |
+| Date       | Speaker   | Paper                                                                                                                                              | Slides |
+|------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 11/01/2021 | Tina Yao | predictions on ICU data with a focus on (New) AFib |  
+| 25/01/2021 |  | |  
+| 08/02/2021 | Alexander Dobres  | Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051|  |
 ## Wish list
 ### NLP
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
@@ -25,6 +25,6 @@
    - [x] Taggar, J.S., Qureshi, N. and Weng, S., 2020. Risk prediction of new AF: is there a role for artificial intelligence?. European journal of preventive cardiology, 27(12), pp.1325-1327. [paper](https://journals.sagepub.com/doi/full/10.1177/2047487319879525?casa_token=Jkle3ojMDUwAAAAA:Hmce49L6f4Q7tg1UiKZGE8EUXguAArnkW39UXmbntQP9IbhuStErJ69N-69UwuwwdKprVw0Hr_wZiA)
    
 ### Drugs / adverse drug reactions
-   - [x] Zhang, Tianlin, Jiaxu Leng, and Ying Liu. "Deep learning for drug–drug interaction extraction from the literature: a review." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz087](https://doi.org/10.1093/bib/bbz087)
+   - [ ] Zhang, Tianlin, Jiaxu Leng, and Ying Liu. "Deep learning for drug–drug interaction extraction from the literature: a review." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz087](https://doi.org/10.1093/bib/bbz087)
    - [ ] Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051
    - [ ] Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101
