@@ -6,9 +6,9 @@
 
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |   |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|---|
-| 11/01/2021 |  | |  |
+| 11/01/2021 | Tina Yao | predictions on ICU data with a focus on New AFib |  |
 | 25/01/2021 |  | |  |
-
+| 08/02/2021 |  | |  |
 ## Wish list
 ### NLP
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
