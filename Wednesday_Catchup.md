@@ -3,7 +3,10 @@
 The aim of Wednesday Catchup is to update the group with what could not be covered on Monday: Sharing the ongoing work and plans of ourselves.
 
 Before the presentation, everyone has the chance to share any quick updates on things like:
-
+* Grant/Fellowship applications: Opportunities, Submissions, Applications shortlisted/received
+* Research papers: Submissions, Revisions, Paper Accepted
+* Communications: Issues to be solved amoung the group, calls for help
+* Anything interesting
 
 
 The main presenter will be give 15 min to share his/her own work or thoughts. Afterward, we have 10 minutes of discussion.
