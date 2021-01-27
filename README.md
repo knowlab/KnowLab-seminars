@@ -10,9 +10,10 @@
 | 25/01/2021 | ALL | Intoductions // Project progress update and future plans |  
 | 08/02/2021 | Alexander Dobres  | Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051|  |
 | 22/02/2021 | Victor | Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101|  |
+| 08/03/2021 | Arlene | Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 | |
 ## Wish list
 ### NLP
-   - [ ] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413
+   - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
 
