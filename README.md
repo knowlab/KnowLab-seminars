@@ -17,7 +17,7 @@
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
 
-### Deep learning models
+### Deep learning models
    - [ ] Hasani R, Lechner M, Amini A, Rus D, Grosu R. Liquid Time-Constant Networks. Accessed January 30, 2021. https://arxiv.org/pdf/2006.04439.pdf
 
 ### Networks
