@@ -17,6 +17,9 @@
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
 
+### Deep learning models
+   - [ ] Hasani R, Lechner M, Amini A, Rus D, Grosu R. Liquid Time-Constant Networks. Accessed January 30, 2021. https://arxiv.org/pdf/2006.04439.pdf
+
 ### Networks
    - [ ] Cui, P., Wang, X., Pei, J., & Zhu, W. (2018). A survey on network embedding. IEEE Transactions on Knowledge and Data Engineering, 31(5), 833-852. [Paper](https://ieeexplore.ieee.org/document/8392745)
    - [ ] Wu, Zhourun, Qing Liao, and Bin Liu. "A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz085](https://doi.org/10.1093/bib/bbz085)
