@@ -28,11 +28,14 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 
 
 ## Notes
-Updates:
+27-Jan-2021 Updates:
 1. Minhong is going to work on DDI Autemated triage 
 2. Emma is going to finish her rotation soon
 3. Honghan and huayu submitted grant 
 4. Setting up Brat (Whose action points)
 5. 25-JAN-2021 Deadline of MSc projects
 6. Spatial analysis of disease transmission
-7. 
+
+03-Feb-2021 Updates:
+1. Hang has set up brat for annotation work
+2. 
