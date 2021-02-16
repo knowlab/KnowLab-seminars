@@ -22,7 +22,8 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 03-Feb-2021 | Huayu Zhang | Update on data analysis of GenomicsEngland |  |
 | 10-Feb-2021 | Emma & Claire | Update on Clustering of COVID19 patients |  |
 | 17-Feb-2021 | Victor | TBD |  |
-
+| 24-Feb-2021 | TBD | TBD |  |
+| 03-Mar-2021 | Arlene | TBD |  |
 
 ## Milestone
 
