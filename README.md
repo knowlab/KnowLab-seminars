@@ -37,3 +37,6 @@
    - [x] Ying Jing, Lixia Diao, Leng Han, Adverse events associated with potential drugs for COVID-19: a case study from real-world data, Briefings in Bioinformatics, , bbaa234. https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa234/5917051
    - [x] Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101
    - [ ] Duc Anh Nguyen, Canh Hao Nguyen, Hiroshi Mamitsuka, A survey on adverse drug reaction studies: data, tasks and machine learning methods, Briefings in Bioinformatics, Volume 22, Issue 1, January 2021, Pages 164–177, https://doi.org/10.1093/bib/bbz140
+
+### Casual inference
+   - [ ] Prosperi, M., Guo, Y., Sperrin, M. et al. Causal inference and counterfactual prediction in machine learning for actionable healthcare. Nat Mach Intell 2, 369–375 (2020). https://doi.org/10.1038/s42256-020-0197-y
