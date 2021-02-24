@@ -21,9 +21,10 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 27-Jan-2021 | Huayu Zhang | Update on data analysis of GenomicsEngland |  |
 | 03-Feb-2021 | Huayu Zhang | Update on data analysis of GenomicsEngland |  |
 | 10-Feb-2021 | Emma & Claire | Update on Clustering of COVID19 patients |  |
-| 17-Feb-2021 | Victor | TBD |  |
-| 24-Feb-2021 | TBD | TBD |  |
+| 17-Feb-2021 | Victor | Address mapping update |  |
+| 24-Feb-2021 | Huayu | Dockerize a python application |  |
 | 03-Mar-2021 | Arlene | TBD |  |
+| 10-Mar-2021 | Hang | a web-based demo for coding and some recent “story” in rare disease identification |  |
 
 ## Milestone
 
