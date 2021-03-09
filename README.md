@@ -14,7 +14,7 @@
 | 22/03/2021 | *TBC* | Hasani R, Lechner M, Amini A, Rus D, Grosu R. Liquid Time-Constant Networks. Accessed January 30, 2021. https://arxiv.org/pdf/2006.04439.pdf | |
 ## Wish list
 ### NLP
-   - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413
+   - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 | slides (https://uoe-my.sharepoint.com/:p:/g/personal/acasey_ed_ac_uk/ESegOpyH0nlAtKvLs46Y9bUBSEsSC3A8SL4wI0EYRF-dsQ?e=fNb5uE)
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
    - [ ] Self-alignment Pre-training for Biomedical Entity Representations. https://arxiv.org/abs/2010.11784 
