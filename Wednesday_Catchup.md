@@ -25,8 +25,8 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 24-Feb-2021 | Huayu | Dockerize a python application |  |
 | 03-Mar-2021 | Arlene | TBD |  |
 | 10-Mar-2021 | Hang | a web-based demo for coding and some recent “story” in rare disease identification |  |
-| 17-Mar-2021 | Huayu | Multi-docker python application with databases |  | 
-| 24-Mar-2021 |  |  |  |
+| 17-Mar-2021 | --- | --- |  | 
+| 24-Mar-2021 | Huayu | Multi-docker python application with databases |  | 
 
 
 ## Milestone
