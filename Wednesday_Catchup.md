@@ -27,7 +27,7 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 10-Mar-2021 | Hang | a web-based demo for coding and some recent “story” in rare disease identification |  |
 | 17-Mar-2021 | --- | --- |  | 
 | 24-Mar-2021 | Huayu | Multi-docker python application with databases |  | 
-
+| 31-Mar-2021 | Hang | update of rare disease identification results (detail ML results, patient-level results) | |
 
 ## Milestone
 
