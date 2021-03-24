@@ -35,8 +35,11 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 ## Notes
 
 ## Calendar (for reference)
-| Conf      | Website   | Deadline |
+| Conf      | Website   | Deadline | Start (for must-go conf only)|
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-|IEEE EMBC 2021| https://embc.embs.org/2021/| Apr 6, 2021|
-|HealTAC 2021| http://healtex.org/healtac-2021/submissions/| Apr 12, 2021 (poster session)|
-|IEEE BHI 2021| https://www.bhi-bsn-2021.org/?page_id=2336| Apr 18, 2021|
+|IEEE EMBC 2021| https://embc.embs.org/2021/| Apr 6, 2021| |
+|HealTAC 2021| http://healtex.org/healtac-2021/submissions/| Apr 12, 2021 (poster session)| |
+|IEEE BHI 2021| https://www.bhi-bsn-2021.org/?page_id=2336| Apr 18, 2021| |
+|NAACL 2021| https://2021.naacl.org/ | | June 6 – 11, 2021 |
+|ACL-IJCNLP 2021| https://2021.aclweb.org/ | | August 2 – 4, 2021 |
+|EMNLP 2021| https://2021.emnlp.org/ | May 17, 2021 | November 7 – 9, 2021 |
