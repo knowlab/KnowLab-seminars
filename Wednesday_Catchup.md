@@ -34,7 +34,7 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 
 ## Notes
 
-## Calendar
+## Calendar (for reference)
 | Conf      | Website   | Deadline |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 |IEEE EMBC 2021| https://embc.embs.org/2021/| Apr 6, 2021|
