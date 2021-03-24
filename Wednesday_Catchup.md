@@ -34,3 +34,9 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 
 ## Notes
 
+## Calendar
+| Conf      | Website   | Deadline |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+|IEEE EMBC 2021| https://embc.embs.org/2021/| Apr 6, 2021|
+|HealTAC 2021| http://healtex.org/healtac-2021/submissions/| Apr 12, 2021 (poster session)|
+|IEEE BHI 2021| https://www.bhi-bsn-2021.org/?page_id=2336| Apr 18, 2021|
