@@ -24,6 +24,7 @@
 ### Networks
    - [ ] Cui, P., Wang, X., Pei, J., & Zhu, W. (2018). A survey on network embedding. IEEE Transactions on Knowledge and Data Engineering, 31(5), 833-852. [Paper](https://ieeexplore.ieee.org/document/8392745)
    - [ ] Wu, Zhourun, Qing Liao, and Bin Liu. "A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks." Briefings in Bioinformatics (2019). [https://doi.org/10.1093/bib/bbz085](https://doi.org/10.1093/bib/bbz085)
+   - [ ] Ward, Isaac & Joyner, Jack & Lickfold, Casey & Rowe, Stash & Guo, Yulan & Bennamoun, Mohammed. (2020). A Practical Guide to Graph Neural Networks. [https://arxiv.org/pdf/2010.05234.pdf](https://arxiv.org/pdf/2010.05234.pdf)
    
 ### Computer Vision for medical imaging
    - [ ] Alexander Ke and W. Ellsworth and Oishi Banerjee and A. Ng and P. Rajpurkar, CheXtransfer: Performance and Parameter Efficiency of ImageNet Models for Chest X-Ray Interpretation (2021). [https://arxiv.org/pdf/2101.06871.pdf](https://arxiv.org/pdf/2101.06871.pdf)
