@@ -12,6 +12,9 @@
 | 22/02/2021 | Victor | Christopoulou, F., Tran, T.T., Sahu, S.K., Miwa, M. and Ananiadou, S., 2020. Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods. Journal of the American Medical Informatics Association, 27(1), pp.39-46. https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocz101| [slides](https://uoe-my.sharepoint.com/:b:/g/personal/vsuarez_ed_ac_uk/EX9HPtCjAmlCmAHCHdSH_sUBVck3JBrzDweZrIk1LhDhwg?e=XEjwuV) |
 | 08/03/2021 | Arlene | Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 | [slides](https://uoe-my.sharepoint.com/:p:/g/personal/acasey_ed_ac_uk/ESegOpyH0nlAtKvLs46Y9bUBSEsSC3A8SL4wI0EYRF-dsQ?e=fNb5uE) |
 | 22/03/2021 | Aneeta Sylolypavan | *(Tentative)* - Training data bias and its consequences in clinical decision making  | |
+| 05/04/2021 |  | Easter Holiday| |
+| 19/04/2021 | TBC | | |
+
 ## Wish list
 ### NLP
    - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 
