@@ -20,10 +20,12 @@
    - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
-   - [ ] Self-alignment Pre-training for Biomedical Entity Representations. https://arxiv.org/abs/2010.11784 
+   - [ ] Self-alignment Pre-training for Biomedical Entity Representations. https://arxiv.org/abs/2010.11784 (SapBert - BERT pre-trained on UMLS for entity linking)
    - [ ] Zhang, Dongyu, et al. "Time-Aware Transformer-based Network for Clinical Notes Series Prediction." Machine Learning for Healthcare Conference. PMLR, 2020. http://proceedings.mlr.press/v126/zhang20c/zhang20c.pdf
-### Deep learning models
+   - [ ] 
+### Deep learning models / Machine learning
    - [ ] Hasani R, Lechner M, Amini A, Rus D, Grosu R. Liquid Time-Constant Networks. Accessed January 30, 2021. https://arxiv.org/pdf/2006.04439.pdf
+   - [ ] Che Z, Purushotham S, Khemani R, Liu Y. Distilling knowledge from deep networks with applications to healthcare domain. arXiv preprint arXiv:1512.03542. 2015 Dec 11. https://arxiv.org/abs/1512.03542 (Knowledge Distillation - improved performance and explanability over deep learning)
 
 ### Networks
    - [ ] Cui, P., Wang, X., Pei, J., & Zhu, W. (2018). A survey on network embedding. IEEE Transactions on Knowledge and Data Engineering, 31(5), 833-852. [Paper](https://ieeexplore.ieee.org/document/8392745)
