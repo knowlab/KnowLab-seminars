@@ -43,3 +43,4 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 |NAACL 2021| https://2021.naacl.org/ | | June 6 – 11, 2021 |
 |ACL-IJCNLP 2021| https://2021.aclweb.org/ | | August 2 – 4, 2021 |
 |EMNLP 2021| https://2021.emnlp.org/ | May 17, 2021 | November 7 – 9, 2021 |
+|AKBC 2021| http://www.akbc.ws/ | June 17, 2021  | October 4-7, 2021 |
