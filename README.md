@@ -14,7 +14,7 @@
 | 22/03/2021 | Aneeta Sylolypavan | *(Tentative)* - Training data bias and its consequences in clinical decision making  | |
 | 05/04/2021 |  | Easter Holiday| |
 | 19/04/2021 | cancelled | | |
-| 03/05/2021 | Project updates | | |
+| 03/05/2021 | ALL | Project updates | |
 
 ## Wish list
 ### NLP
