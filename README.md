@@ -13,7 +13,8 @@
 | 08/03/2021 | Arlene | Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 | [slides](https://uoe-my.sharepoint.com/:p:/g/personal/acasey_ed_ac_uk/ESegOpyH0nlAtKvLs46Y9bUBSEsSC3A8SL4wI0EYRF-dsQ?e=fNb5uE) |
 | 22/03/2021 | Aneeta Sylolypavan | *(Tentative)* - Training data bias and its consequences in clinical decision making  | |
 | 05/04/2021 |  | Easter Holiday| |
-| 19/04/2021 | TBC | | |
+| 19/04/2021 | cancelled | | |
+| 03/05/2021 | Project updates | | |
 
 ## Wish list
 ### NLP
