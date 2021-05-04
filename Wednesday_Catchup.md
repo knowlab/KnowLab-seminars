@@ -37,6 +37,8 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 ## Notes
 
 ## Calendar (for reference)
+AI conf calendar by jackietseng https://jackietseng.github.io/conference_call_for_paper/conferences.html
+
 | Conf      | Website   | Deadline | Start (for must-go conf only)|
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
 |IEEE EMBC 2021| https://embc.embs.org/2021/| May 3, 2021| |
