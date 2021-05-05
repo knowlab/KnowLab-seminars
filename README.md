@@ -15,6 +15,8 @@
 | 05/04/2021 |  | Easter Holiday| |
 | 19/04/2021 | cancelled | | |
 | 03/05/2021 | Bank Holiday |  | |
+| 17/05/2021 | ALL | Project Updates  | |
+
 
 ## Wish list
 ### NLP
