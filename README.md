@@ -16,7 +16,7 @@
 | 19/04/2021 | cancelled | | |
 | 03/05/2021 | Bank Holiday |  | |
 | 17/05/2021 | ALL | Project Updates  | |
-
+| 31/05/2021 | Hang Dong | Knowledge Distillation |
 
 ## Wish list
 ### NLP
