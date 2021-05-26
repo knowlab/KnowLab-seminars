@@ -16,7 +16,8 @@
 | 19/04/2021 | cancelled | | |
 | 03/05/2021 | Bank Holiday |  | |
 | 17/05/2021 | ALL | Project Updates  | |
-| 31/05/2021 | Hang Dong | Knowledge Distillation or System Evaluation or Online/Human-in-the-loop/Active learning (would choose from one of the three topics) |
+| 31/05/2021 | Hang Dong | Knowledge Distillation or System Evaluation or Online/Human-in-the-loop/Active learning (would choose from one of the three topics) | |
+| 14/06/2021 | Minhong Wang | Knowledge enhanced contextual word representations. arXiv preprint arXiv:1909.04164. https://arxiv.org/abs/1909.04164 | |
 
 ## Wish list
 ### NLP
