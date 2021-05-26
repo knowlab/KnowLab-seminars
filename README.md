@@ -25,7 +25,7 @@
    - [ ] Liu, Q., Kusner, M.J. and Blunsom, P., 2020. A Survey on Contextual Embeddings. arXiv preprint [arXiv:2003.07278](https://arxiv.org/pdf/2003.07278.pdf).
    - [ ] Self-alignment Pre-training for Biomedical Entity Representations. https://arxiv.org/abs/2010.11784 (SapBert - BERT pre-trained on UMLS for entity linking)
    - [ ] Zhang, Dongyu, et al. "Time-Aware Transformer-based Network for Clinical Notes Series Prediction." Machine Learning for Healthcare Conference. PMLR, 2020. http://proceedings.mlr.press/v126/zhang20c/zhang20c.pdf
-   - [ ] 
+   - [ ] **Peters, M. E., Neumann, M., Logan IV, R. L., Schwartz, R., Joshi, V., Singh, S., & Smith, N. A. (2019). Knowledge enhanced contextual word representations. arXiv preprint arXiv:1909.04164. https://arxiv.org/abs/1909.04164**
 ### Deep learning models / Machine learning
    - [ ] Hasani R, Lechner M, Amini A, Rus D, Grosu R. Liquid Time-Constant Networks. Accessed January 30, 2021. https://arxiv.org/pdf/2006.04439.pdf
    - [ ] Che Z, Purushotham S, Khemani R, Liu Y. Distilling knowledge from deep networks with applications to healthcare domain. arXiv preprint arXiv:1512.03542. 2015 Dec 11. https://arxiv.org/abs/1512.03542 (Knowledge Distillation - improved performance and explanability over deep learning)
