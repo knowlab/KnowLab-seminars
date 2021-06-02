@@ -30,7 +30,7 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 31-Mar-2021 | Hang | update of rare disease identification results (detail ML results, patient-level results) | |
 | 28-Apr-2021 | Archie | generation scotland |
 | 12-May-2021 | Hang | a BERT tutorial | |
-| 01-Jun-2021 | Victor | a NER tutorial with BERT | [Jupyter notebook](https://uoe-my.sharepoint.com/:u:/g/personal/vsuarez_ed_ac_uk/ES6z81i2jpdBksPfv1zoRusBE9ES6QKR8v6qDaFOcrahmA?e=re0aCe) |
+| 01-Jun-2021 | Victor | a NER tutorial with BERT | [Jupyter notebook](https://uoe-my.sharepoint.com/:u:/g/personal/vsuarez_ed_ac_uk/EXs0NplwfvZOm1XMvr2uNksBxmHZANP2UUeUKGUQyiJsaw?e=5SyVIX) |
 
 ## Milestone
 
