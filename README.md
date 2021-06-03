@@ -16,7 +16,7 @@
 | 19/04/2021 | cancelled | | |
 | 03/05/2021 | Bank Holiday |  | |
 | 17/05/2021 | ALL | Project Updates  | |
-| 31/05/2021 | Hang Dong | Facilitating Clinical Coding in the NHS https://coiera.com/2014/07/15/guide-to-health-informatics-3rd-edition/ https://journals.sagepub.com/doi/full/10.1177/1833358319851305 https://doi.org/10.1007/s10916-020-1532-x| |
+| 31/05/2021 | Hang Dong | Facilitating Clinical Coding in the NHS https://coiera.com/2014/07/15/guide-to-health-informatics-3rd-edition/ https://journals.sagepub.com/doi/full/10.1177/1833358319851305 https://doi.org/10.1007/s10916-020-1532-x| [slides](https://drive.google.com/file/d/1bTxQyysEh-5EaBCZ0RgmlZRPOCduC7Ni/view?usp=sharing)|
 | 14/06/2021 | Minhong Wang | Knowledge enhanced contextual word representations. arXiv preprint arXiv:1909.04164. https://arxiv.org/abs/1909.04164 | |
 
 ## Wish list
