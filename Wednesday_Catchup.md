@@ -32,6 +32,7 @@ The main presenter will be give 15 min to share his/her own work or thoughts. Af
 | 12-May-2021 | Hang | a BERT tutorial | |
 | 01-Jun-2021 | Victor | a NER tutorial with BERT | [Jupyter notebook](https://uoe-my.sharepoint.com/:u:/g/personal/vsuarez_ed_ac_uk/EXs0NplwfvZOm1XMvr2uNksBxmHZANP2UUeUKGUQyiJsaw?e=5SyVIX) |
 | 09-Jun-2021 | Hang&Huayu | Must-read share: MedCat annotation tool | https://arxiv.org/abs/1912.10166 |
+| to be announced | Someone & Hang | Long Document Representation (BERT, BERT LM variants, constrastive learning) | |
 
 ## Milestone
 
