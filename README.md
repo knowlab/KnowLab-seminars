@@ -19,8 +19,11 @@
 | 31/05/2021 | Hang Dong | Facilitating Clinical Coding in the NHS https://coiera.com/2014/07/15/guide-to-health-informatics-3rd-edition/ https://journals.sagepub.com/doi/full/10.1177/1833358319851305 https://doi.org/10.1007/s10916-020-1532-x| [slides](https://drive.google.com/file/d/1bTxQyysEh-5EaBCZ0RgmlZRPOCduC7Ni/view?usp=sharing)|
 | 14/06/2021 | Minhong Wang | Knowledge enhanced contextual word representations. arXiv preprint arXiv:1909.04164. https://arxiv.org/abs/1909.04164 | |
 | 28/06/2021 | Honghan Wu | Reader’s digest on “[How do we get the best out of automation and AI in health care?](https://doi.org/10.37829/HF-2021-I03)”: DOI:10.37829/HF-2021-I03 | |
+| 23/08/2021 | TBC | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | |
+
 
 ## Wish list
+- [ ] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext
 ### NLP
    - [x] Chen, Qingyu, et al. "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)." arXiv preprint arXiv:2010.16413 (2020). https://arxiv.org/pdf/2010.16413 
    - [ ] A survey of cross-lingual word embedding models. https://ruder.io/cross-lingual-embeddings/
