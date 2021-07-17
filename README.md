@@ -11,6 +11,6 @@ Archieves: [2020](2020-12-18.md),
 
 
 ## Wish list
-- [x] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext
+- [x] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext. `#Turing, #high-level-view`
 
-- [ ] Li, et al. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. 2021. https://arxiv.org/abs/2107.02282 #NLP
+- [ ] Li, et al. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. 2021. https://arxiv.org/abs/2107.02282. `#NLP, #interpretability` 
