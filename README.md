@@ -7,7 +7,6 @@
 
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-
 | 23/08/2021 | Hang Dong, Huayu Zhang | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | |
 
 
