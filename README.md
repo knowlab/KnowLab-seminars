@@ -7,7 +7,7 @@ Archieves: [2020](2020-12-18.md),
 
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 23/08/2021 | Hang Dong, Huayu Zhang | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | [slides:part 2](https://github.com/knowlab/bi-weekly-paper-presentation)|
+| 23/08/2021 | Hang Dong, Huayu Zhang | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | [slides-part2](https://github.com/knowlab/bi-weekly-paper-presentation)|
 
 
 ## Wish list
