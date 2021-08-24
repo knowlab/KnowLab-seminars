@@ -15,4 +15,4 @@ Archieves: [2020](2020-12-18.md),
 
 - [ ] Li, et al. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. 2021. https://arxiv.org/abs/2107.02282. `#NLP, #interpretability` 
 
-- [ ] Luo, et al. Unsupervised Document Embedding via Contrastive Augmentation. 2021. https://arxiv.org/abs/2103.14542.
+- [ ] Luo, et al. Unsupervised Document Embedding via Contrastive Augmentation. 2021. https://arxiv.org/abs/2103.14542. `#NLP, #document representation`
