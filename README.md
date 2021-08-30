@@ -9,7 +9,7 @@ Archieves: [2020](2020-12-18.md),
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 23/08/2021 | Hang Dong, Huayu Zhang | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | [slides-part2](https://docs.google.com/presentation/d/1VrGEVAytp0J4rY473rQk1b3iExygBpv2VA2lQOtuFao/edit?usp=sharing)|
 | 6/09/2021 | | | 
-| 20/09/2021 | | | 
+| 20/09/2021 | Nickil Maveli | | 
 
 ## Wish list
 - [x] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext. `#Turing, #high-level-view`
