@@ -8,7 +8,7 @@ Archieves: [2020](2020-12-18.md),
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 23/08/2021 | Hang Dong, Huayu Zhang | Deep Learning for AI: https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext | [slides-part2](https://docs.google.com/presentation/d/1VrGEVAytp0J4rY473rQk1b3iExygBpv2VA2lQOtuFao/edit?usp=sharing)|
-| 6/09/2021 | | | 
+| 6/09/2021 | - | - | 
 | 20/09/2021 | Nickil Maveli | Unsupervised Document Embedding via Contrastive Augmentation: https://arxiv.org/abs/2103.14542 | (slides to be updated soon)
 
 ## Wish list
