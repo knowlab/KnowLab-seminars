@@ -51,3 +51,4 @@ AI conf calendar by jackietseng https://jackietseng.github.io/conference_call_fo
 |ACL-IJCNLP 2021| https://2021.aclweb.org/ | | August 2 – 4, 2021 |
 |EMNLP 2021| https://2021.emnlp.org/ | May 17, 2021 | November 7 – 9, 2021 |
 |AKBC 2021| http://www.akbc.ws/ | June 17, 2021  | October 4-7, 2021 |
+|ISWC 2021| https://iswc2021.semanticweb.org/ | | October 24 - 28 2021 |
