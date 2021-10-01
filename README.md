@@ -17,5 +17,6 @@ Archieves: [2020](2020-12-18.md),
 
 - [ ] Li, et al. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. 2021. https://arxiv.org/abs/2107.02282. `#NLP, #interpretability` 
 
-- [x] Luo, et al. Unsupervised Document Embedding via Contrastive Augmentation. 2021. https://arxiv.org/abs/2103.14542. `#NLP, #document-representation`
+- [x] Luo, et al. Unsupervised Document E. https://arxiv.org/abs/2109.00725bedding via Contrastive Augmentation. 2021. https://arxiv.org/abs/2103.14542. `#NLP, #document-representation`
 - [ ] Kamdar, et al. An empirical meta-analysis of the life sciences linked open data on the web. Scientific Data. 2021.  https://www.nature.com/articles/s41597-021-00797-y. `#knowledge-graph` `#biomedical ontologies`
+- [ ] Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond. https://arxiv.org/abs/2109.00725 `#NLP, #causal-inference`
