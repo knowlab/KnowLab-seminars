@@ -11,6 +11,7 @@ Archieves: [2020](2020-12-18.md),
 | 6/09/2021 | - | - | 
 | 20/09/2021 | Nickil Maveli | Unsupervised Document Embedding via Contrastive Augmentation: https://arxiv.org/abs/2103.14542 | [slides](https://docs.google.com/presentation/d/1m6AY8C0YbPy4rrmeOMBY9DprY4uqvEaY0n_ux01DHYQ)
 | 04/10/2021 | Tina Yao | Adapatable Forecasting Framework in Realtime (AFFIRM) | |
+| 15/11/2021 | Hengrui Zhang | A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries https://arxiv.org/abs/2107.10652 | |
 
 ## Wish list
 - [x] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext. `#Turing, #high-level-view`
