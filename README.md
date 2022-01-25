@@ -8,7 +8,7 @@ Archieves: [2020](2020-12-18.md),
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 20/01/2022 | All | Project updates | |
-| 03/02/2022 | Feiyi Wang | A smart tool for querying registry data | |
+| 03/02/2022 | Feiyi Wang (Helsinki University)| A smart tool for querying registry data | |
 | 17/02/2022 | Jinge Wu | Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0. | |
 
 ## Wish list
