@@ -16,6 +16,7 @@ Archieves: [2020](2020-12-18.md),
 | 13/12/2021 | Yuan Liang | Fang, J., Zhang, P., Zhou, Y. et al. Endophenotype-based in silico network medicine discovery combined with insurance record data mining identifies sildenafil as a candidate drug for Alzheimer’s disease. Nat Aging (2021). https://doi.org/10.1038/s43587-021-00138-z | |
 
 ## Wish list
+- [ ] Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0.
 - [x] Yoshua Bengio, Yann LeCun, and Geoffrey Hinton are recipients of the 2018 ACM A.M. Turing Award for breakthroughs that have made deep neural networks a critical component of computing. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext. `#Turing, #high-level-view`
 
 - [ ] Li, et al. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. 2021. https://arxiv.org/abs/2107.02282. `#NLP, #interpretability` 
