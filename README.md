@@ -14,6 +14,7 @@ Archieves: [2020](2020-12-18.md),
 | 15/11/2021 | Hengrui Zhang | A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries https://arxiv.org/abs/2107.10652 | |
 | 29/11/2021 | All | Project updates | |
 | 13/12/2021 | Yuan Liang | Fang, J., Zhang, P., Zhou, Y. et al. Endophenotype-based in silico network medicine discovery combined with insurance record data mining identifies sildenafil as a candidate drug for Alzheimer’s disease. Nat Aging (2021). https://doi.org/10.1038/s43587-021-00138-z | |
+| 20/01/2022 | All | Project updates | |
 
 ## Wish list
 - [ ] Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0.
