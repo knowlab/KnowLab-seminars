@@ -10,6 +10,7 @@ Archieves: [2020](2020-12-18.md),
 | 20/01/2022 | All | Project updates | |
 | 03/02/2022 | Feiyi Wang (Helsinki University)| A smart tool for querying registry data | |
 | 17/02/2022 | Jinge Wu | Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0. | |
+| 03/03/2022 | Hengrui Zhang | Lin, Chen, Timothy Miller, Dmitriy Dligach, Steven Bethard, and Guergana Savova. "EntityBERT: Entity-centric Masking Strategy for Model Pretraining for the Clinical Domain." In BioNLP 2021 | |
 
 ## Wish list
 - [x] Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0.
