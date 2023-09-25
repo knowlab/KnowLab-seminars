@@ -1,4 +1,4 @@
-# biweekly group meeting
+# KnowLab group seminars
 
 ## Paper presentation schedule:
 
