@@ -8,6 +8,8 @@ Archieves: [2020](2020-12-18.md),
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 25/09/2023 | All | Project updates | |
+| 24/10/2023 | Abul Hansan | K-tokenization: Infusing clinical knowledge into a pre-trained language model | |
+
 
 
 ## Wish list
