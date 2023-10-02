@@ -8,7 +8,7 @@ Archieves: [2020](2020-12-18.md),
 | Date       | Speaker   | Paper                                                                                                                                              | Slides |
 |------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 25/09/2023 | All | Project updates | |
-| 24/10/2023 | Abul Hasan | K-tokenization: Infusing clinical knowledge into a pre-trained language model | |
+| 24/10/2023 | Abul Hasan <br/> Yue Gao | Abul: K-tokenization: Infusing clinical knowledge into a pre-trained language model <br/> Yue: introduction  | |
 
 
 
