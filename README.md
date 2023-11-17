@@ -13,5 +13,6 @@ Archieves: [2020](2020-12-18.md),
 
 
 ## Wish list
+- [ ] Jiang, Albert Q., Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand et al. "Mistral 7B." arXiv preprint arXiv:2310.06825 (2023). https://arxiv.org/abs/2310.06825
 - [x] Rajpurkar, P., Chen, E., Banerjee, O. et al. AI in health and medicine. Nat Med (2022). https://doi.org/10.1038/s41591-021-01614-0.
 
