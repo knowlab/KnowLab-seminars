@@ -10,6 +10,8 @@ Archieves: [2020](2020-12-18.md),
 | 25/09/2023 | All | Project updates | |
 | 24/10/2023 | Abul Hasan <br/> Yue Gao | Abul: K-tokenization: Infusing clinical knowledge into a pre-trained language model <br/> Yue: introduction  | |
 | 21/11/2023 | Jinge Wu | Fact checking of radiology report generation | |
+| 19/12/2023 | Yunsoo Kim | "Mistral 7B." | |
+
 
 
 ## Wish list
