@@ -11,7 +11,7 @@ Archieves: [2020](2020-12-18.md),
 | 24/10/2023 | Abul Hasan <br/> Yue Gao | Abul: K-tokenization: Infusing clinical knowledge into a pre-trained language model <br/> Yue: introduction  | |
 | 21/11/2023 | Jinge Wu | Fact checking of radiology report generation | [Link](slides/group_meeting_21_Nov_JW.pdf)|
 | 19/12/2023 | Yunsoo Kim | Mistral 7B and Medical Language Model Benchmark | [Link](slides/191223_KnowLab_Seminar_Yunsoo_Kim_Mistral7B.pdf) |
-
+| 16/01/2023 | All | Project updates/plans | |
 
 
 ## Wish list
