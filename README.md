@@ -11,8 +11,8 @@ Archieves: [2020](2020-12-18.md),
 | 24/10/2023 | Abul Hasan <br/> Yue Gao | Abul: K-tokenization: Infusing clinical knowledge into a pre-trained language model <br/> Yue: introduction  | |
 | 21/11/2023 | Jinge Wu | Fact checking of radiology report generation | [Link](slides/group_meeting_21_Nov_JW.pdf)|
 | 19/12/2023 | Yunsoo Kim | Mistral 7B and Medical Language Model Benchmark | [Link](slides/191223_KnowLab_Seminar_Yunsoo_Kim_Mistral7B.pdf) |
-| 16/01/2023 | All | Project updates/plans | |
-
+| 16/01/2024 | All | Project updates/plans | |
+| 13/02/2024 | Eva Keller, Zhaolong Wu | 1. Evaluating health inequalities in machine learning enabled decision making: a case study of in-hospital mortality prediction in the intensive care unit; 2. Ontology based evluation of LLMs in clinical knowledge space | |
 
 ## Wish list
 - [ ] Cheng Peng, et al. A study of generative large language model for medical research and healthcare. npj Digital Medicine volume 6, Article number: 210 (2023). https://www.nature.com/articles/s41746-023-00958-w
