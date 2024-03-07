@@ -12,7 +12,8 @@ Archieves: [2020](2020-12-18.md),
 | 21/11/2023 | Jinge Wu | Fact checking of radiology report generation | [Link](slides/group_meeting_21_Nov_JW.pdf)|
 | 19/12/2023 | Yunsoo Kim | Mistral 7B and Medical Language Model Benchmark | [Link](slides/191223_KnowLab_Seminar_Yunsoo_Kim_Mistral7B.pdf) |
 | 16/01/2024 | All | Project updates/plans | |
-| 13/02/2024 | Eva Keller <br/> Yue Gao | 1. Evaluating health inequalities in machine learning enabled decision making: a case study of in-hospital mortality prediction in the intensive care unit <br/> 2. Human centred automated coding | |
+| 13/02/2024 | Eva Keller | Evaluating health inequalities in machine learning enabled decision making: a case study of in-hospital mortality prediction in the intensive care unit| |
+| 12/03/2024 | Yue Gao <br/> Zhalong Wu | 1. Human centred automated coding <br/> 2. An anatomy of LLMs performance in clinical knowledge space | |
 
 ## Wish list
 - [ ] Cheng Peng, et al. A study of generative large language model for medical research and healthcare. npj Digital Medicine volume 6, Article number: 210 (2023). https://www.nature.com/articles/s41746-023-00958-w
